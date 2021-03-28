@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261768091408",
+    "firebase_url": "https://cobacoba-ec07f-default-rtdb.firebaseio.com",
+    "project_id": "cobacoba-ec07f",
+    "storage_bucket": "cobacoba-ec07f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261768091408:android:c4a16837ea4350bff93795",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261768091408-8q9c69t5kiub9htecd9ujc8mp77ou255.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLD7MR9gwyAlUPNNM1WYLa1AoHP27TGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261768091408-8q9c69t5kiub9htecd9ujc8mp77ou255.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
